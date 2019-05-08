@@ -1,7 +1,5 @@
 ![banner](https://github.com/charlesfrye/psych101d-demo/blob/master/shared/img/banner.png?raw=true)
 
-# psych101d-demo
-
 This repository contains a subset of the materials for the course PSYCH101-D, "Data Science for Research Psychology", to be taught at UC Berkeley in Fall 2019.
 
 It's intended to enable feedback on course content while development happens on a private repo.
