@@ -37,24 +37,13 @@ If you stop interacting for some time (~20 minutes) you will lose any changes.
 
 ### `datahub`
 This option is only available for individuals with a `berkeley.edu` account.
-Simply download the repo as a `zip` and upload it to `datahub.berkeley.edu`,
-then unzip it.
+Simply click [this link](http://datahub.berkeley.edu/user-redirect/interact?account=charlesfrye&repo=psych101d-demo&branch=master&path=)
+and then log in with your CalNet ID.
+After a quick build, you'll be dropped into a JuPyter instance
+with all of the materials loaded.
+This material is persistent.
 
-_If you've never used this service_: just head to
-[datahub.berkeley.edu](https://datahub.berkeley.edu)
-and log in with your CalNet ID.
-You'll be given persistent space on a cloud deployment of JupyterHub.
-Upload the zipped repository.
-
-**Unzipping on `datahub`**:
-to unzip on `datahub`, start by launching a command line.
-Use the dropdown `New` menu (top-right) and select `Terminal`.
-Then, use the command
-```
-unzip name_of_zip.zip
-```
-to unzip the uploaded `zip` file.
-You can then close the command line.
+_If you've never used this service_, check out [this video](https://data.berkeley.edu/file/327).
 
 ### Local Installation
 
