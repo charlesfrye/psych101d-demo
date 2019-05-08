@@ -9,6 +9,17 @@ Lectures (`lec/`), homeworks (`hw/`), and labs (`lab/`) are formatted as `.ipynb
 Currently, there are demo materials for week 3, on Models and Random Variables.
 A link to a draft of the whole syllabus is available on request.
 
+## Context
+
+This class is targeted at sophomores and above who have completed one course on coding/statistics,
+[data8](http://data8.org).
+They will be familiar with Python, but won't have a full formal course in programming/computer science,
+and they will be familiar with statistical concepts, especially the bootstrap.
+
+Here's the course description:
+
+> Experimental and data science abound with models. Models of data can be used to simulate, as in models of the climate, to explain simply, as in paper airplanes, and to predict, as in prototype models; all of these are forms of inferential thinking. In this course, we will learn to use Python to describe, create, manipulate, and interrogate models of data. With these new skills, we will simulate, explain, and predict phenomena and data, drawing examples from research psychology. As one application of these tools, we will learn classical statistical approaches, like null hypothesis significance testing and linear regression.
+
 ## How to Contribute
 
 It's easiest for contributors to raise issues, rather than make pull requests,
@@ -59,7 +70,7 @@ and Python must be version `3.6.*`.
 This level of specificity typically requires the building of many wheels, some of which have known bugs
 on Python 3.5 or 3.7.
 
-## Notes and Known Issues
+## Known Issues
 
 The `Slides` files in the `lec/` folder are intended for use with
 [RISE](https://github.com/damianavila/RISE),
