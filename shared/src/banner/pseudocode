@@ -1,0 +1,4 @@
+with pm.Model():
+    X = pm.Normal("X", mu=0., sd=1.)
+    Y = pm.Normal("Y", mu=0., sd=1.)
+    Z = pm.Deterministic("Z", X + Y)
