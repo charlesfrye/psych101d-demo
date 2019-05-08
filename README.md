@@ -6,7 +6,7 @@ This repository contains a subset of the materials for the course PSYCH101-D, "D
 
 It's intended to enable feedback on course content while development happens on a private repo.
 
-Lectures (`lec/`), homeworks (`hw/`), and labs (`lab`) are formatted as `.ipynb` files, aka JuPyter notebooks.
+Lectures (`lec/`), homeworks (`hw/`), and labs (`lab/`) are formatted as `.ipynb` files, aka JuPyter notebooks.
 
 Currently, there are demo materials for week 3, on Models and Random Variables.
 A link to a draft of the whole syllabus is available on request.
