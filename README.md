@@ -1,3 +1,5 @@
+![banner](https://github.com/charlesfrye/psych101d-demo/blob/master/shared/img/banner.png?raw=true)
+
 # psych101d-demo
 
 This repository contains a subset of the materials for the course PSYCH101-D, "Data Science for Research Psychology", to be taught at UC Berkeley in Fall 2019.
@@ -30,7 +32,6 @@ That is, edits will be lost.
 However, it has the benefit of automatically tracking the latest version of the material without any effort.
 
 Click the badge below to deploy the content to a cloud instance with [Binder](https://mybinder.org).
-NOTE: this is currently untested.
 You'll be able to edit and execute notebooks in a temporary environment.
 If you stop interacting for some time (~20 minutes) you will lose any changes.
 
