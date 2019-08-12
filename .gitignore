@@ -120,3 +120,7 @@ dmypy.json
 
 # linted notebooks
 *.lint.ipynb
+
+# internal-only notebooks
+*_soln.ipynb
+*_draft.ipynb
