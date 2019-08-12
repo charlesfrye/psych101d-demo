@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+# Site settings
+author: Charles Frye
+email: charlesfrye@berkeley.edu
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title: "PSYCH101-D"
+url: "http://charlesfrye.github.io/psych101d-demo"
+
+github_username:  charlesfrye
+
+# Build settings
+markdown: kramdown
