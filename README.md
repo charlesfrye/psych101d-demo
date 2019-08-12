@@ -6,7 +6,8 @@ It's intended to enable feedback on course content while development happens on 
 
 Lectures (`lec/`), homeworks (`hw/`), and labs (`lab/`) are formatted as `.ipynb` files, aka JuPyter notebooks.
 
-Currently, there are demo materials for week 3, on Models and Random Variables.
+Currently, there are full demo materials for week 3, on Models and Random Variables.
+There are also lab materials for weeks 4 and 7.
 A link to a draft of the whole syllabus is available on request.
 
 ## Context
