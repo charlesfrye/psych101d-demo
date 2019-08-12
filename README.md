@@ -47,9 +47,9 @@ If you stop interacting for some time (~20 minutes) you will lose any changes.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/charlesfrye/psych101d-demo/master)
 
-### `datahub`
+### datahub
 This option is only available for individuals with a `berkeley.edu` account.
-Simply click [this link](http://datahub.berkeley.edu/user-redirect/interact?account=charlesfrye&repo=psych101d-demo&branch=master&path=)
+Simply click [this link](http://datahub.berkeley.edu/user-redirect/interact?account=charlesfrye&repo=psych101d-demo&branch=master&path=content/)
 and then log in with your CalNet ID.
 After a quick build, you'll be dropped into a JuPyter instance
 with all of the materials loaded.
