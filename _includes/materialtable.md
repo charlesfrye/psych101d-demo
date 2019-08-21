@@ -7,6 +7,10 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
+$(document).ready( function () {
+    $('#myTable').DataTable();
+} );
+
 <div class="datatable-begin"></div>
 
 Category | Date  | Title
@@ -16,3 +20,4 @@ lab      | 09/20 | [Lab 03 - Models & Monsters]({{site.interact}}lab/03_models/)
 lec      | 09/16 | [Lec 03 - Models and Random Variables]({{site.interact}}lec/03_models/)
 
 <div class="datatable-end"></div>
+{: style="text-align: center"}
