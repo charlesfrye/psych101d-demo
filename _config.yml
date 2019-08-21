@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title: "PSYCH101-D"
 url: "https://charlesfrye.github.io/psych101d-demo"
+interact: "http://datahub.berkeley.edu/user-redirect/interact?account=charlesfrye&repo=psych101d-demo&branch=master&path=content/"
 
 github_username:  charlesfrye
 
