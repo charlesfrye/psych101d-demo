@@ -9,18 +9,13 @@ permalink: /info/
 - GSI: Everett Wetchler (`wetchler@berkeley.edu`)
 
 ## Locations & Times
-*Lectures* (80 min, 2/week)
+**Lectures** (80 min, 2/week)
+- MW 5:00 - 6:30 pm
+- Mulford 240
 
-MW 5:00 - 6:30 pm
-
-Mulford 240
-
-
-*Labs* (110 min, 1/week)
-
-F 1:00 - 3:00 PM
-
-Cory 247
+**Labs** (110 min, 1/week),
+- F 1:00 - 3:00 PM
+- Cory 247
 
 ## Course Websites
 - [Course Materials]({{site.url}}).

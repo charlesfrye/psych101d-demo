@@ -20,8 +20,9 @@ There are a few policies that we ask you to observe:
 
 ## Communication Policies
 
-- Please add the following text into the subject line of emails to us: [PSYCH101D]. We receive a lot of emails on a daily basis and we want to be sure not to miss yours!
-- For brief questions pertaining to course material, please use Piazza.
+- **Please add the following text into the subject line of emails to us: [PSYCH101D]**.
+We receive a lot of emails on a daily basis and we want to be sure not to miss yours!
+- For brief questions pertaining to course material, **please use Piazza**.
 - Anonymous posting is currently enabled on Piazza.
 Note that there are mechanisms for unmasking posters in the case of threats and hate speech.
 Anonymity is meant to enable shame- and shyness-free speech, not irresponsibility.
@@ -45,9 +46,9 @@ Here is the UC policy on accommodations of religious creed:
 ## Academic Integrity
 Plagiarism and cheating are expressly forbidden in the UC Berkeley code of conduct. Here are the definitions of cheating and plagiarism from the code:
 
-> *Cheating*: Cheating includes fraud, deceit, or dishonesty in an academic assignment, or using or attempting to use materials, or assisting others in using materials that are prohibited or inappropriate in the context of the academic assignment in question.
+> **Cheating**: Cheating includes fraud, deceit, or dishonesty in an academic assignment, or using or attempting to use materials, or assisting others in using materials that are prohibited or inappropriate in the context of the academic assignment in question.
 
-> *Plagiarism*: Plagiarism includes use of intellectual material produced by another person without acknowledging its source.
+> **Plagiarism**: Plagiarism includes use of intellectual material produced by another person without acknowledging its source.
 
 Note that for most assignments in the class (but not for exams), group work will be permitted (it’s not cheating, because of "the context of the academic assignment in question").
 However, any collaboration should be explicitly acknowledged (OK has mechanisms for this), and no assignment should be an exact duplicate of another student’s assignment.
@@ -57,12 +58,13 @@ However, any collaboration should be explicitly acknowledged (OK has mechanisms 
 Many students struggle with mental health during their undergraduate education.
 The university has numerous resources for helping with this, and some important ones are listed bbelow.
 
-- *Counseling and Psychological Services, [Tang Center*](http://uhs.berkeley.edu) – 2222 Bancroft Way, 510-642-9494
+- **Counseling and Psychological Services,
+[Tang Center](http://uhs.berkeley.edu)** – 2222 Bancroft Way, 510-642-9494
 
 The UHS Counseling and Psychological Services staff provides confidential assistance to students managing problems that can emerge from illness such as financial, academic, legal, family concerns, etc.
 In the realm of sexual harassment, UHS coordinates education programs, crisis counseling, advocacy, and medical care for individuals who have been harassed or assaulted.
 
-- [*Psychology Student Services Office*](http://psychology.berkeley.edu/students/undergraduate-program/academic-advising) – 2nd Floor, Berkeley Way West
+- [**Psychology Student Services Office**](http://psychology.berkeley.edu/students/undergraduate-program/academic-advising) – 2nd Floor, Berkeley Way West
 
 The Student Services Office provides all types of academic advising.
 You can drop-in at any time during the above hours to speak with a peer adviser,
@@ -70,7 +72,7 @@ or you can use the website above to get more information and/or
 schedule an appointment with a staff member.
 Hours are from 9am-noon and 1pm-4.
 
-- [*Student Learning Center*](http://slc.berkeley.edu) – 510-642-9494
+- [**Student Learning Center**](http://slc.berkeley.edu) – 510-642-9494
 
 As the primary academic support service for students at UC Berkeley,
 the Student Learning Center (SLC) assists students in transitioning to Cal,
@@ -81,7 +83,7 @@ SLC supports students in Biological and Physical Sciences, Business Administrati
 Computer Science, Economics, Mathematics, Social Sciences, Statistics,
 Study Strategies, and Writing.
 
-- [*Student Life Advising Services (SLAS)*](http://slas.berkeley.edu) – 510-642-4257
+- [**Student Life Advising Services (SLAS)**](http://slas.berkeley.edu) – 510-642-4257
 
 Student Life Advising Services (SLAS) is an academic counseling/advising service
 that assists all undergraduate students,
@@ -91,7 +93,7 @@ The SLAS office assists students in developing the skills
 required to succeed at Berkeley and beyond by taking a comprehensive approach
 to counseling/advising on academic, personal, and social matters.
 
-- [*Ombudsperson for Students*](https://sa.berkeley.edu/ombuds) – 102 Sproul Hall, 510-642-5754
+- [**Ombudsperson for Students**](https://sa.berkeley.edu/ombuds) – 102 Sproul Hall, 510-642-5754
 
 The Ombudsperson for Students provides a confidential service
 for students involved in a University-related problem
@@ -106,7 +108,7 @@ All matters referred to this office are held in strict confidence.
 The only exceptions, at the sole discretion of the Ombudsperson,
 are cases where there appears to be imminent threat of serious harm.
 
-- [*Disabled Students’ Program (DSP)*](http://dsp.berkeley.edu) - 260 Cesar Chavez Student Center, 510-642-0518
+- [**Disabled Students’ Program (DSP)**](http://dsp.berkeley.edu) - 260 Cesar Chavez Student Center, 510-642-0518
 
 The Disabled Students’ Program serves students with disabilities of all kinds,
 including mobility, visual, or hearing impairments;
