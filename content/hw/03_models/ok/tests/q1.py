@@ -6,6 +6,8 @@ test = {
             "cases": [
                 {
                     "code": r"""
+                    >>> "coin" == coin_toss_model.vars[0].name # did you define coin?
+                    True
                     >>> coin_toss_model.logp({"coin": 0}) == coin_toss_model.logp({"coin": 1})
                     True
                     """,
