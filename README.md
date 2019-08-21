@@ -1,4 +1,4 @@
-![banner](https://github.com/charlesfrye/psych101d-demo/blob/master/content/shared/img/banner.png?raw=true)
+![banner](https://github.com/charlesfrye/psych101d-demo/blob/master/content/shared/img/banner.svg?sanitize=true)
 
 ## Course Materials
 
