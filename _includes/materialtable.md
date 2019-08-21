@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
-<script type="text/javascript" src="js/datatable.min.js"></script>
+<script type="text/javascript" src="js/datatables.js"></script>
 
 <div class="datatable-begin"></div>
 
