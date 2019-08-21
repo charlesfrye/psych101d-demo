@@ -6,7 +6,7 @@ permalink: /info/
 
 ## Course Staff
 - Instructor: Charles Frye (he/him/his, `charlesfrye@berkeley.edu`)
-- GSI: Everett Wetchler (`wetchler@berkeley.edu`)
+- GSI: Everett Wetchler (he/him/his, `wetchler@berkeley.edu`)
 
 ## Locations & Times
 **Lectures** (80 min, 2/week)
