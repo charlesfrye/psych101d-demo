@@ -1,4 +1,4 @@
-![banner]({{site.url}}content/shared/img/banner.svg)
+![banner]({{site.url}}/content/shared/img/banner.svg)
 
 ## Course Materials
 
