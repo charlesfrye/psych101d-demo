@@ -13,7 +13,7 @@ permalink: /info/
 - MW 5:00 - 6:30 pm
 - Mulford 240
 
-**Labs** (110 min, 1/week),
+**Labs** (110 min, 1/week)
 - F 1:00 - 3:00 PM
 - Cory 247
 
