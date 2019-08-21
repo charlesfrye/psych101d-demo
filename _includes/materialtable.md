@@ -7,9 +7,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
-$(document).ready( function () {
-    $('#myTable').DataTable();
-} );
+<script type="text/javascript" src="js/datatable.min.js"></script>
 
 <div class="datatable-begin"></div>
 
