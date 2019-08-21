@@ -20,7 +20,7 @@ lec      | 09/16 | [Lec 03 - Models and Random Variables]({{site.interact}}lec/0
 <div class="datatable-end"></div>
 {: style="text-align: center"}
 
-<table class="display">
+<table>
 	<thead>
 		<tr class="header">
 			<th>Category</th>
