@@ -19,3 +19,21 @@ lec      | 09/16 | [Lec 03 - Models and Random Variables]({{site.interact}}lec/0
 
 <div class="datatable-end"></div>
 {: style="text-align: center"}
+
+<table class="display">
+	<thead>
+		<tr class="header">
+			<th>Category</th>
+			<th>Date</th>
+			<th>Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td markdown="span">hw</td>
+			<td markdown="span">09/23</td>
+			<td markdown="span">[Homework 03 - Models IRL]({{site.interact}}hw/03_models/)</td>
+		</tr>
+	</tbody>
+</table>
+{: style="text-align: center"}
